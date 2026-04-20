@@ -57,5 +57,12 @@
 ---
 
 ## 🔗 Links
-- X/Twitter: https://x.com/joeyxcodes
-- LinkedIn: https://www.linkedin.com/in/joel-ako-abang-774093193
+
+<p align="center">
+  <a href="https://x.com/joeyxcodes" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.linkedin.com/in/joel-ako-abang-774093193" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
