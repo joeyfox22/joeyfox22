@@ -46,12 +46,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joeyfox22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="160" src="https://streak-stats.demolab.com?user=joeyfox22&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joeyfox22&theme=tokyonight" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=joeyfox22&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyfox22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joeyfox22&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeyfox22&theme=tokyonight" />
 </p>
 
 ---
