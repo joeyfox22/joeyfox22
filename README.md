@@ -9,7 +9,7 @@
 <h2 align="center">Hi there, I'm Joey Fox 👋</h2>
 
 <p align="center">
-  <b>Full-Stack Developer | Blockchain Developer</b><br/>
+  <b>Full-Stack Developer</b><br/>
   Building clean UI, learning fast, and shipping projects.
 </p>
 
