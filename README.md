@@ -37,7 +37,6 @@
 - Working with React, Next.js, TypeScript, C# and ASP.NET Core
 - Exploring Solidity and blockchain development
 - Focused on responsive UI, clean architecture and practical products
-- Based in Ghana 🇬🇭
 
 ---
 
