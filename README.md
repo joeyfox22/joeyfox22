@@ -7,11 +7,10 @@
   />
 </p>
 
-<h2 align="center">Hi, I'm Joey Fox 👋</h2>
+<h2 align="center">Hi, I'm Joey Fox </h2>
 
 <p align="center">
-  Full-Stack Developer building polished interfaces, scalable applications,
-  and practical digital products.
+  Full-Stack Developer
 </p>
 
 <p align="center">
@@ -33,7 +32,7 @@
 
 ## 👨🏾‍💻 About Me
 
-- Building modern web applications and premium business websites
+- Building modern web applications and premium looking business websites
 - Working with React, Next.js, TypeScript, C# and ASP.NET Core
 - Exploring Solidity and blockchain development
 - Focused on responsive UI, clean architecture and practical products
@@ -54,7 +53,7 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Built Projects with
 
 <p align="center">
   <img src="https://img.shields.io/badge/Advanced%20React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Advanced React" />
@@ -98,7 +97,7 @@
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 <p align="center">
   <a href="https://github.com/joeyfox22">
